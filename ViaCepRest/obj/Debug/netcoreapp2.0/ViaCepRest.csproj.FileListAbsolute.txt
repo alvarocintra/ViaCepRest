@@ -1,0 +1,11 @@
+c:\users\geovanna\source\repos\ViaCepRest\ViaCepRest\bin\Debug\netcoreapp2.0\ViaCepRest.deps.json
+c:\users\geovanna\source\repos\ViaCepRest\ViaCepRest\bin\Debug\netcoreapp2.0\ViaCepRest.runtimeconfig.json
+c:\users\geovanna\source\repos\ViaCepRest\ViaCepRest\bin\Debug\netcoreapp2.0\ViaCepRest.runtimeconfig.dev.json
+c:\users\geovanna\source\repos\ViaCepRest\ViaCepRest\bin\Debug\netcoreapp2.0\ViaCepRest.dll
+c:\users\geovanna\source\repos\ViaCepRest\ViaCepRest\obj\Debug\netcoreapp2.0\ViaCepRest.csprojAssemblyReference.cache
+c:\users\geovanna\source\repos\ViaCepRest\ViaCepRest\obj\Debug\netcoreapp2.0\ViaCepRest.csproj.CoreCompileInputs.cache
+c:\users\geovanna\source\repos\ViaCepRest\ViaCepRest\obj\Debug\netcoreapp2.0\ViaCepRest.AssemblyInfoInputs.cache
+c:\users\geovanna\source\repos\ViaCepRest\ViaCepRest\obj\Debug\netcoreapp2.0\ViaCepRest.AssemblyInfo.cs
+c:\users\geovanna\source\repos\ViaCepRest\ViaCepRest\bin\Debug\netcoreapp2.0\ViaCepRest.pdb
+c:\users\geovanna\source\repos\ViaCepRest\ViaCepRest\obj\Debug\netcoreapp2.0\ViaCepRest.dll
+c:\users\geovanna\source\repos\ViaCepRest\ViaCepRest\obj\Debug\netcoreapp2.0\ViaCepRest.pdb

@@ -1,0 +1,13 @@
+﻿@model ViaCepRest.Models.Cep
+
+@{
+    ViewData["Title"] = "Consulta CEP";
+}
+<h2>@ViewData["Title"]</h2>
+
+<h6>Rua: </h6><p>@Html.DisplayFor(m => m.rua)</p>
+<h6>Bairro: </h6><p>@Html.DisplayFor(m => m.bairro)</p>
+<h6>Cidade: </h6><p>@Html.DisplayFor(m => m.cidade)</p>
+<h6>UF: </h6><p>@Html.DisplayFor(m => m.uf)</p>
+
+

@@ -1,0 +1,19 @@
+﻿@{
+    ViewData["Title"] = "About";
+}
+<h2>@ViewData["Title"]</h2>
+<h3>@ViewData["Message"]</h3>
+
+<p>Use this area to provide additional information.</p>
+@using (Html.BeginForm("Cep", "Home", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+<div class="form-group">
+    <div class="row">
+        <input class="form-control" id="cep" name="cep" type="text" placeholder="Digite o CEP" />
+    </div>
+    <div class="row">
+        <input class="btn btn-success" type="submit" value="Buscar" />
+    </div>
+</div>
+}
+
